@@ -1,3 +1,13 @@
+I attended an Amazon meetup (24/1/17) and it was a practical session on using Amazon's Web App Starter Kit (WASK), run by Mario Viviani.  Below you'll find the original readme created by Amazon, which includes an entire walk through on how to set this up for yourself.
+
+The aim of the session was to show developers just how simple it is to get web based TV apps up and running; and it really was simple!  The templates are already completed and by just changing two lines of code we had a live app.  The UI can be customised to fit your preference/brand and I spent time today playing around with the background colours; all you need to do is amend the CSS file included in the package.  
+
+This web based TV app runs using a YouTube api and as a big fan of SNL I personalised my app to reflect this.  I added the SNL YouTube channel and set up options to so that users can select options to see Kate McKinnon or Kristen Wiig based clips, amongst others.
+
+It's fun, it's easy and if you choose to follow the steps below you'll be able to be up and running yourself in no time!
+
+Thanks to Mario for his patience on the night!
+
 # Web App Starter Kit for Fire TV
 -------------------
 
