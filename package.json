@@ -27,7 +27,7 @@
     "gulp-jsdoc": "^0.1.4",
     "jshint-stylish": "^2.2.1",
     "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^1.2.8",
+    "gulp-sourcemaps": "^2.6.5",
     "gulp-uglifyjs": "^0.6.2",
     "merge-stream": "^0.1.6",
     "vinyl-paths": "^1.0.0"
