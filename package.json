@@ -30,6 +30,6 @@
     "gulp-sourcemaps": "^1.2.8",
     "gulp-uglifyjs": "^0.6.2",
     "merge-stream": "^0.1.6",
-    "vinyl-paths": "^1.0.0"
+    "vinyl-paths": "^3.0.0"
   }
 }
